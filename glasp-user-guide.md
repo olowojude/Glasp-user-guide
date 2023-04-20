@@ -19,7 +19,7 @@
 
 ## Introduction
 
-In this current, fast-paced digital world, bogged down with information overload thereby making it difficult for us to stay organized and focused, and with a shortage of productivity apps that can help us filter out irrelevant information, extract what truly matters, and also share it with others. This is where Glasp comes in.
+In this current, fast-paced digital world, bogged down with information overload thereby making it difficult for us to stay organized and focused, and with a shortage of productivity apps that can help us filter out irrelevant information, extract what truly matters, and also share it with others. This is where Glasp comes in.<br/>
 ![Glasplogo](images/Glasp-logo-2.png)
 
 Glasp is a social web highlighter and annotation tool designed to help you stay organized and manage your time effectively, whether you're a professional working on a project, a student studying for an exam, or anyone just trying to be more productive in your day-to-day life. Glasp lets you collect what truly matters to you from the web, and express yourself through your collection of highlights and notes, while also leaving a meaningful and valuable legacy for other like-minded individuals to benefit from.
