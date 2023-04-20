@@ -1,4 +1,4 @@
-# The Beginner's Ultimate Guide to Glasp: The Social Web Highlighter for Collaborative Learning
+# The Beginner's Guide to Glasp: The Social Web Highlighter for Collaborative Learning
 
 ## Table of Contents
 - Introduction
@@ -27,6 +27,7 @@ Glasp is a social web highlighter and annotation tool designed to help you stay 
 In this guide, we will take a closer look at the Glasp app and explore its features in-depth, and provide you with a comprehensive understanding of how to use the Glasp app effectively. By the end of this guide, you’ll have a better understanding of how to streamline your workflow, boost your productivity, and manage your time effectively with Glasp.
 
 ## What is Glasp? 
+![](images/what-is-glasp.jpg)
 
 Glasp stands for "Greatest Legacy Accumulated as Share Proof" and it is a social web highlighter and annotation tool that allows users quickly capture online content with colored highlighting options, take and organize notes and thoughts from the web, and also discover useful content from other like-minded people.
 
@@ -45,7 +46,7 @@ Just like the co-founder of Glasp Kazuki Nakayashi said “If you leave your kno
 With so many productivity apps out there, you may be wondering why you should choose Glasp. In this section, we'll explore the key benefits of using Glasp and why it stands out from other similar apps. Here are some of the ways Glasp stands out from other productivity tools out there.
 
 - **Allows for collaborative knowledge sharing:** Glasp is a social web highlighter and annotation tool, which means it allows users to share their highlights and annotations with others, making it a collaborative tool that fosters knowledge sharing and discovery. This feature sets Glasp apart from other productivity apps that are more focused on individual use.
-- **Efficient time management:** Glasp is designed to help users manage their time effectively by providing them with an easy-to-use tool for collecting and organizing information from the web. Glasp's interface is user-friendly and intuitive, which makes it easy for users to quickly find the information they need without getting bogged down with a cluttered interface.
+- **Efficient time management:** Glasp is designed to help users manage their time effectively by providing them with an easy-to-use tool for collecting and organizing information from the web. Glasp has an intuitive and user-friendly interface, which makes it easy for users to quickly find the information they need without getting bogged down with a cluttered interface.
 - **Versatility at its best:** Glasp offers advanced features such as the ability to search for highlights and annotations, filter them by tags, and export them to other apps. These features make Glasp a versatile tool that can be used for a wide range of tasks, from research projects to self-development.
 
 All these unique combinations of collaborative features are what make Glasp a valuable tool for users looking to streamline their workflow and boost their productivity.
@@ -57,7 +58,7 @@ To install the Glasp browser extension, simply follow these steps to get started
 1. In your web browser and navigate to the [Glasp website](http://www.glasp.co).<br/>
    ![](images/navigate-to-glasp-website.png)
 
-2. Click on “**Install on Chrome**” which will prompt a new tab to open in the Google Chrome Web Store.
+2. Click on "**Install on Chrome**" or "**Install on Safari**"(depending on your browser) which will prompt a new tab to open in the Google Chrome Web Store.
    ![](images/click-on-install-for-chrome.png)
 3. Once the Google Web Store is loaded, locate and click the "**Add to Chrome**" button to complete the installation.
    ![](images/click-on-add-to-chrome.png)
@@ -76,7 +77,7 @@ To sign up for Glasp, simply follow these steps:
 
 1. Click on the Glasp icon on the top right side of the browser.<br/>
    ![](images/click-glasp-icon.png)
-2. Click on “Login/Sign up and continue using your Google Account
+2. Click on **"Login/Sign up"** and continue using your Google Account
    ![](images/click-sign-up.png)
    ![](images/click-continue-with-google.png)
 
@@ -98,7 +99,7 @@ To sign up for Glasp, simply follow these steps:
 - To generate an AI summary of the webpage, click the "View AI Summary" button.<br/>
   ![](images/view-al-summary.png)
 
-- To add a comment or thought about the webpage, click the input text box with a "Page comment" label.
+- To add a comment or thought about the webpage, click the input text box with a **"Page comment"** label.<br/>
   ![](images/add-page-comment.png)
 
 - To access additional options for your highlights, hover your cursor over any of your highlights. This will reveal three dots in the top right corner of the app, and a pen icon in the bottom left corner of each highlight. Clicking on the three dots will bring up a menu that includes the following options: "Share to Twitter", "Add a note", "Create highlight image", "Copy link to highlight", "Copy highlight embed code",and "Delete highlight". <br/>
@@ -129,20 +130,7 @@ To highlight PDF files on the web with Glasp, follow these simple steps:
 1. Open the PDF on the web
 2. Select the text you want to highlight and then select the color that you want to use for the highlight. To see all of your highlights, click the Glasp icon at the top right side of your browser.
 
-    **Note: Please be aware that Glasp does not currently support the highlighting of PDF files opened locally. To highlight PDF files using Glasp, the files must first be opened on the web.**
-
-### How to create Atomic notes in Glasp
-To create atomic notes in Glasp, simply follow these steps:
-
-1. Navigate to the highlights tab
-   ![](images/create-atomic-notes.png)
-2. In the highlights tab, click on the arrow icon at the end of the right side.
-   ![](images/click-arrow.png)
-3. Clicking the arrow icon will open up a sidebar, click on "Atomic Notes" and click on "Create Atomic Note".
-   ![](images/side-bar-opened.png)
-   ![](images/click-on-create-atomic-note.png)
-4. A notepad will be opened for you to write on.
-   ![](images/note-pad-opened.png)
+**Note: Please be aware that Glasp does not currently support the highlighting of PDF files opened locally. To highlight PDF files using Glasp, the files must first be opened on the web.**
 
 ### How to navigate the Glasp home page
 
@@ -227,6 +215,20 @@ To create atomic notes in Glasp, simply follow these steps:
 - To generate an AI summary of the webpage, click the "View AI Summary" button. The AI will generate a summary of the article.
   ![](images/view-al-summary-profile.png)
 
+### How to create Atomic notes in Glasp
+To create atomic notes in Glasp, simply follow these steps:
+
+1. Navigate to the highlights tab
+   ![](images/create-atomic-notes.png)
+2. In the highlights tab, click on the arrow icon at the end of the right side.
+   ![](images/click-arrow.png)
+3. Clicking the arrow icon will open up a sidebar, click on "Atomic Notes" and click on "Create Atomic Note".
+   ![](images/side-bar-opened.png)
+   ![](images/click-on-create-atomic-note.png)
+4. A notepad will be opened for you to write on.
+   ![](images/note-pad-opened.png)
+
+
 ### How to Navigate the Explore Tab
 
 - The Explore tab allows you to discover new users and content based on your interests. When you click on the Explore tab, you will see a list of recommended topics that you can follow. These topics are generated based on your activity and interests.
@@ -239,18 +241,31 @@ To create atomic notes in Glasp, simply follow these steps:
 
 Glasp supports integration with other platforms like Slack, Trello, Notion etc. Simply follow any of these steps based on the platform you want to integrate Glasp to
 
-1. For Slack:
-    - Go to the Slack App Directory and search for "Glasp".
+1. For Slack integration with Glasp:
+
+    - In your Slack app, navigate to the Slack App Directory and search for "Glasp".
+
     - Click on the "Add to Slack" button.
+
     - Select the channel you want to integrate Glasp with and click "Authorize".
-2. For Trello:
-    - Go to the Trello Power-Ups directory and search for "Glasp".
+
+2. For Trello integration with Glasp:
+
+    - In your Trello app, navigate to the Trello Power-Ups directory and search for "Glasp".
+
     - Click on the "Add" button to enable the Glasp Power-Up for your Trello board.
+
     - Click on the "Connect your account" button and sign in to your Glasp account.
-3. For Notion:
-    - Navigate to the Notion page where you want to integrate the Glasp highlight.
+
+3. For Notion integration with Glasp:
+
+    - In Notion, navigate to the Notion page where you want to integrate the Glasp highlight.
+
     - Click on the "+" icon and select "Embed" from the dropdown menu.
+
     - Paste the Glasp highlight link and click on "Embed".
+
+    - Your highlights will be embedded on Notion
 
 ### Conclusion
 
