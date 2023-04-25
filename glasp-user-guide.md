@@ -99,7 +99,7 @@ To sign up for Glasp, simply follow these steps:
 - To generate an AI summary of the webpage, click the "View AI Summary" button.<br/>
   ![](images/view-al-summary.png)
 
-- To add a comment or thought about the webpage, click the input text box with a **"Page comment"** label.<br/>
+- To add a comment or thought about the article, click the input text box with a **"Page comment"** label.<br/>
   ![](images/add-page-comment.png)
 
 - To access additional options for your highlights, hover your cursor over any of your highlights. This will reveal three dots in the top right corner of the app, and a pen icon in the bottom left corner of each highlight. Clicking on the three dots will bring up a menu that includes the following options: "Share to Twitter", "Add a note", "Create highlight image", "Copy link to highlight", "Copy highlight embed code",and "Delete highlight". <br/>
