@@ -10,9 +10,9 @@
   - How to Use Glasp's Highlighting and Note-taking Features
   - How to highlight Youtube videos
   - How to highlight PDF files on the Web
-  - How to create Atomic notes in Glasp
   - How to navigate the Glasp home page
-  - How to navigate the user profile page in Glasp
+  - How to navigate the Highlights tab in Glasp
+  - How to create Atomic notes in Glasp
   - How to navigate the Explore Tab
   - How to integrate Glasp with other platforms
 - Conclusion
